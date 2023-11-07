@@ -32,13 +32,7 @@ const AlbumModal = ({ album, onClose }) => {
                 <BiUserCircle className='text-red-300 text-2xl' />
                 <h2 className='my-1'>{album.artist}</h2>
             </div>
-            <p className='mt-4'>Optional</p>
-            <p className='my-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque,
-                 tempore exercitationem. Accusantium, eligendi praesentium deserunt
-                  eaque omnis dolore minus. Ea sint maxime saepe officia cupiditate,
-                   atque molestiae aperiam error vero!
-            </p>
-            
+
             </div>
         </div>
     )
