@@ -1,6 +1,6 @@
 # Album Collection Application
 
-This project was built using the MERN stack, MongoDB, Express.js, Node.js, and React.
+This project was built using the MERN stack, MongoDB, Express.js, Node.js, and React. I also utilized Tailwind CSS
 
 ## Features
 This application can add new Albums to the database, edit albums, delete albums, and can display information about each album including date and time added and last updated.
